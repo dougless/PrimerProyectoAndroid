@@ -2,5 +2,6 @@
 <resources>
     <string name="app_name">Mon premier projet Android</string>
     <string name="bienvenido">Bienvenue</string>
+    <string name="action_settings">outils</string>
     <string name="boton">Entrer</string>
 </resources>

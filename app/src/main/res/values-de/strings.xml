@@ -3,4 +3,5 @@
     <string name="app_name">Mein erstes Android-Projekt</string>
     <string name="bienvenido">Herzlich willkommen</string>
     <string name="boton">Eingeben</string>
+    <string name="action_settings">Werkzeuge</string>
 </resources>
