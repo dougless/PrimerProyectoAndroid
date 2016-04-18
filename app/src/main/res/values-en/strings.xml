@@ -2,5 +2,5 @@
 <resources>
     <string name="app_name">My First Android Project</string>
     <string name="bienvenido">Welcome</string>
-    <string name="boton_text">Enter</string>
+    <string name="boton">Enter</string>
 </resources>
